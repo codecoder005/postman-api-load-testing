@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: postman-api-load-testing
+  profiles:
+    active: dev, test
